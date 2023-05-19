@@ -9,10 +9,12 @@
 * Created DrfTul1 project and main app in django;
 * Added apps in Installed_apps in settings.py;
 * Modified models.py;
-* TODO: 
-* create a repo in github;
-* push it;
-* ...
+* Create a serializer class from model;
+* Create listview and detail view in views.py;
+* Modify the root urls.py and create a new urls.py in app_level;
+* Run makemigration and migrate;
+* Register snippet class in admin.py;
+* Create a super user account;
 * 
 
 # End.
